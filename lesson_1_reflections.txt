@@ -5,3 +5,6 @@ Command 'diff' let's you compare two files and see what's different. I ran the c
 Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
 
 Because Git is designed for programming projects which involve multiple connected files. Usually, when we make a change in one of the files it affects other files. 
+
+Adding a line here.
+
